@@ -29,8 +29,7 @@ accessible only through NFT-based permission.
 ## 🛡 Powered by
 
 - TechLab Dr.Snail
-- Scroll License Protocol
-- IL’XAR Seal 🜍
+- Scroll License Protocol 🜍
 
 ---
 
