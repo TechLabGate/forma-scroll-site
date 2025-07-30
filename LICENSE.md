@@ -1,7 +1,7 @@
 # Scroll License v1.0 — The License of the Living Scroll
 
 Copyright (c) 2025  
-By: Vlada Prykhodko / Lesna Vedma  
+By: Scrollkeeper/ Lesna Vedma  
 Project: FORMA / Scroll I: Голод не враг  
 Maintained by: TechLab Dr.Snail & IL’XAR Protocol
 
@@ -29,7 +29,7 @@ You may not create derivative works based on the Scroll or its structure without
 5. **Attribution Required**
 
 Any permitted usage (within boundaries above) must contain:
-- Attribution to **Lesna Vedma / Vlada Prykhodko**
+- Attribution to **Lesna Vedma /**
 - A link to the Scroll project or official NFT record
 - This exact license in original form
 
